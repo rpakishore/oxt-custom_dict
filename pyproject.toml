@@ -13,5 +13,9 @@ dependencies = [
     "pytest>=7.2.1",
     "typer[all]"
 ]
+
 [project.urls]
 Home = "https://github.com/rpakishore/oxt-custom_dict"
+
+[project.scripts]
+oxt_generator="oxt_generator.cli_app:app"
