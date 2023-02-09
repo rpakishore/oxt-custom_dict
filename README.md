@@ -81,7 +81,7 @@ To create a new oxt file
 ```bash
 .venv\Scripts\activate
 
-oxt_generator <"Path\to\wordlist.txt"> <custom_filename>
+oxt_generator <"Path\to\wordlist.txt"> --filename <custom_filename>
 ```
 
 where,
