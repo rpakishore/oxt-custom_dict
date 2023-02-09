@@ -18,6 +18,10 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rpakishore/oxt-custom_dict)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rpakishore/oxt-custom_dict)
+![PyPI](https://img.shields.io/pypi/v/oxt_generator)
+![PyPI - Format](https://img.shields.io/pypi/format/oxt_generator)
+![PyPI - License](https://img.shields.io/pypi/l/oxt_generator)
+
 <!-- Table of Contents -->
 <h2>Table of Contents</h2>
 
@@ -113,4 +117,3 @@ Use this section to mention useful resources and libraries that you have used in
 - [Awesome README Template](https://github.com/Louis3797/awesome-readme-template/blob/main/README-WITHOUT-EMOJI.md)
 - [Banner Maker](https://banner.godori.dev/)
 - [Shields.io](https://shields.io/)
-- [Carbon](https://carbon.now.sh/)
