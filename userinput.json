@@ -1,0 +1,4 @@
+{
+    "Chrome_Userdata_Path" : "AppData\\Local\\Google\\Chrome\\User Data",
+    "_Chrome_Userdata_Path" : "Enter the path to the chrome directory exluding `homedir` path"
+}
