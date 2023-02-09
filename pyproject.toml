@@ -1,0 +1,17 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "oxt_generator"
+authors = [{name = "Arun Kishore", email = "pypi@rpakishore.co.in"}]
+readme = "README.md"
+license = {file = "LICENSE"}
+classifiers = ["License :: OSI Approved :: MIT License"]
+dynamic = ["version", "description"]
+dependencies = [
+    "pytest>=7.2.1",
+    "typer[all]"
+]
+[project.urls]
+Home = "https://github.com/rpakishore/oxt-custom_dict"
