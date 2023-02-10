@@ -67,6 +67,8 @@ Create a virtual env and Install from pypi
 ```bash
 python -m venv .venv
 
+.venv\Sripts\activate
+
 pip install oxt_generator
 ```
 <!-- Usage -->
